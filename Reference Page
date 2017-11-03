@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>HTML Reference</title>
+    <link href="styles.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+   
+    <h1>HTML Reference Page</h1>
+   
+    <h2>Paragraph Element</h2>
+    <h3>Description</h3>
+    <p>Description of paragraph element</p>
+    <h3>Syntax</h3>
+    <p>the syntax of a paragraph element</p>
+    <h3>Example</h3>
+    <p>some example useage of a paragraph element</p>
+    <h3>Display</h3>
+    <p>how a paragraph element looks in the browser</p>
+    
+    <hr>
+    
+    <h2>Heading Element</h2>
+    
+    
+  </body>
+</html>
