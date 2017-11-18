@@ -8,7 +8,7 @@ body {
 
 /* Style the header */
 .header {
-    background-color: #f1f1f1;
+    background-color: #ADD8E6;
     padding: 20px;
     text-align: center;
 }
@@ -16,7 +16,7 @@ body {
 /* Style the top navigation bar */
 .topnav {
     overflow: hidden;
-    background-color: #999;
+    background-color: #008000;
 }
 
 /* Style the topnav links */
@@ -31,13 +31,13 @@ body {
 
 /* Change color on hover */
 .topnav a:hover:not(.active) {
-    background-color: #ddd;
+    background-color: #66CDAA;
     color: white;
 }
 
 /* indicate active page on nav */
 #activepage {
-    background-color: #4CA593;
+    background-color: #0000FF;
 }
 
 /* A - Create three unequal columns that floats next to each other */
@@ -76,4 +76,10 @@ body {
     padding: 10px;
     text-align: center;
 }
+h1 {color:green;}
+p  {background-color:lightblue;}
 
+p {
+    border: 1px solid green;
+    padding: 30px;
+}
